@@ -17,5 +17,6 @@ ql repo https://github.com/LinYuanovo/scripts.git
 leaf
 ql repo https://github.com/leafTheFish/DeathNote.git
 
+京东
 Faker2
 ql repo https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|jdCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator" "main"
