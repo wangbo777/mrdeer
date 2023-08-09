@@ -1,8 +1,6 @@
-# mrdeer
+# 个人私人仓库（所有脚本均搬运）青龙面板脚本集合
 
-个人私人仓库（所有脚本均搬运）青龙面板脚本集合
 
-一些大神的库
 
 萝卜库
 ql repo https://github.com/lu0b0/Script.git
