@@ -5,7 +5,7 @@ shike.com 抓包的域名。。
 格式 od=aaaaaaaaaa@od=bbbbbbbbbbbb
 变量 yyskapp   对应账号数据
 一天跑个五次吧。。
-cron 0 0 2,5,13,15,17 * * ?
+cron: 0 0 2,5,13,15,17 * * ?
 7.14 加入自动提现
 下载链接  https://wx.shike.com/i/UUqhExC
 
