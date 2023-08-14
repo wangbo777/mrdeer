@@ -5,7 +5,6 @@
 多账号换行隔开
 教程地址：https:wjkjs.top
 cron: 32 0/30 * * ?
-
 */
 
 const $ = new Env("抖音极速版");
