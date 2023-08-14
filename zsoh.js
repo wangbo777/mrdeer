@@ -8,6 +8,7 @@ jzack
 变量示例 7557206663AD0927A8XXXXXXXX   旧版没问题则不需要更新   新版去掉Bearer 只要 Authorization的 Bearer后面的值
 
 一天运行1次    运行空白是在扫任务 不用管
+cron: 39 9 * * *
 */
 const $ = new Env("掌上瓯海");
 const envSplitor = ['\n','@','&']
