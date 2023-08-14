@@ -4,7 +4,7 @@
 格式：export dyjsb="sessionid=xxxx&device_id=xxxxx&iid=xxxx"  
 多账号换行隔开
 教程地址：https:wjkjs.top
-cron 32 0/30 * * ?
+cron: 32 0/30 * * ?
 
 */
 
