@@ -1,7 +1,7 @@
 /*
 @随缘撸豆
 阿里云盘 app               
-cron: 22 8 * * *  
+ 
 https://raw.githubusercontent.com/liuqi6968/-/main/alyp.js
 
   6.21    就一个签到
@@ -13,7 +13,7 @@ body 中的 refresh_token
 export alyp=" refresh_token " 
 
 多账号用 换行 或 @ 分割
-
+cron: 22 8 * * *  
 */
 
 const $ = new Env("阿里云盘签到")
