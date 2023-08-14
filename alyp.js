@@ -1,7 +1,7 @@
 /*
 @随缘撸豆
 阿里云盘 app               
- cron: 22 8 * * *  
+cron: 22 8 * * *  
 https://raw.githubusercontent.com/liuqi6968/-/main/alyp.js
 
   6.21    就一个签到
