@@ -1,6 +1,7 @@
 # 个人私人仓库（所有脚本均搬运）青龙面板脚本集合
 
-
+本仓库拉库命令
+ql repo https://github.com/wangbo777/mrdeer.git
 
 萝卜库
 ql repo https://github.com/lu0b0/Script.git
