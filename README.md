@@ -1,5 +1,8 @@
 # 个人私人仓库（所有脚本均搬运）青龙面板脚本集合
 
+签到框架
+http://18.142.250.56:8923/
+
 本仓库拉库命令
 ql repo https://github.com/wangbo777/mrdeer.git
 
@@ -11,7 +14,6 @@ ql repo https://github.com/hex-ci/smzdm_script.git "" "env.js|bot.js|sendNotify.
 
 LinYuan
 ql repo https://github.com/LinYuanovo/scripts.git
-
 
 leaf
 ql repo https://github.com/leafTheFish/DeathNote.git
