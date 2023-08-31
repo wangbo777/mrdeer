@@ -3,7 +3,7 @@
 QQ群：328868727
 
 签到框架
-http://18.142.250.56:8923/
+http://54.255.223.68:8923/
 
 本仓库拉库命令
 ql repo https://github.com/wangbo777/mrdeer.git
