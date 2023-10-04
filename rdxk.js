@@ -7,9 +7,9 @@ cron: 0 */12 * * *
 
 变量名reck
 
-     扫码打开小程序后 抓包 m.reduxingke.com 域名
-     请求头  "Authori-zation":  Bearer 后面的值
-     多账号 @ 或者 回车分割
+扫码打开小程序后 抓包 m.reduxingke.com 域名
+请求头  "Authori-zation":  Bearer 后面的值
+多账号 @ 或者 回车分割
 
 */
 
