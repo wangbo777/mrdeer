@@ -13,6 +13,7 @@
 
 其他参数说明（脚本最下方填写参数）
 
+const $ = new Env("美添赚")
 内置推送第三方 wxpusher（脚本最下方填写参数）
 appToken = 'xxx'  # 这个是填wxpusher的appToken
 topicIds = 0  # 这个是wxpusher的topicIds改成你自己的,在主题管理里能看到应用的topicIds
