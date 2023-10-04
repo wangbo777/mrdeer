@@ -24,5 +24,7 @@ ql repo https://github.com/wangbo777/mrdeer.git
 ```
 
 ### 交流
-企鹅交流群&nbsp;&nbsp;<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=2q1-h1rBeuMoAIBrHCOaa36yZh1hmUmZ&jump_from=webapi&authKey=oiGsorh0pWFCjvBaIbOrPdwNHSXD/X8H3tRdWJ090mslUT5v+oFzjg8cWF7M0Ktv"><img border="0" src="https://img.tukuppt.com/png_preview/00/40/12/mbJ6HJWIde.jpg!/fw/780" alt="交流群" title="交流群"></a>
+&nbsp;&nbsp;<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=2q1-h1rBeuMoAIBrHCOaa36yZh1hmUmZ&jump_from=webapi&authKey=oiGsorh0pWFCjvBaIbOrPdwNHSXD/X8H3tRdWJ090mslUT5v+oFzjg8cWF7M0Ktv"><img border="0" src="https://img.tukuppt.com/png_preview/00/40/12/mbJ6HJWIde.jpg!/fw/780" alt="交流群" title="交流群"></a>
 &nbsp;&nbsp;&nbsp;
+
+
