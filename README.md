@@ -6,9 +6,14 @@
 <a href="https://github.com/wangbo777/mrdeer/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/wangbo777/mrdeer?color=red&style=flat-square"></a>
 </div>
                                            
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/wangbo777/count.svg)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/wangbo777/count.svg)
 <div align="center">
-  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=2q1-h1rBeuMoAIBrHCOaa36yZh1hmUmZ&jump_from=webapi&authKey=oiGsorh0pWFCjvBaIbOrPdwNHSXD/X8H3tRdWJ090mslUT5v+oFzjg8cWF7M0Ktv"><img border="0" src="https://img.tukuppt.com/png_preview/00/40/12/mbJ6HJWIde.jpg!/fw/780" alt="交流群" title="交流群"></a>
+&nbsp;&nbsp;&nbsp;
+
+
 - [x] 青龙拉库
 
 ```
@@ -25,8 +30,6 @@ ql repo https://github.com/wangbo777/mrdeer.git
 http://54.255.223.68:8923/
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=2q1-h1rBeuMoAIBrHCOaa36yZh1hmUmZ&jump_from=webapi&authKey=oiGsorh0pWFCjvBaIbOrPdwNHSXD/X8H3tRdWJ090mslUT5v+oFzjg8cWF7M0Ktv"><img border="0" src="https://img.tukuppt.com/png_preview/00/40/12/mbJ6HJWIde.jpg!/fw/780" alt="交流群" title="交流群"></a>
-&nbsp;&nbsp;&nbsp;
 
 
 
