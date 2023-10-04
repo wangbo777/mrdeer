@@ -11,14 +11,14 @@
 
 
 
-- [x] 青龙拉库
+青龙拉库
 
 
 
 ```
 ql repo https://github.com/wangbo777/mrdeer.git
 ```
-- [x] 脚本排错
+脚本排错
 
 ```
 1.脚本报错 no module named '***' 就是缺少青龙依赖  去青龙面板依赖管理里面右上角新建依赖 选python 添加对应的缺少的依赖就好了
@@ -33,3 +33,5 @@ ql repo https://github.com/wangbo777/mrdeer.git
 ### 签到框架
 
 地址：http://54.255.223.68:8923/
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangbo777&theme=high-contrast)
