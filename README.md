@@ -29,8 +29,9 @@ ql repo https://github.com/wangbo777/mrdeer.git
 
 http://54.255.223.68:8923/
 
+- [x] 京东车
 
-
+http://mrdeer.top:5702/
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangbo777&theme=high-contrast)
