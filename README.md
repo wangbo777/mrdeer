@@ -33,9 +33,9 @@ https://mrdeer.dd-dns.de/
       
 https://mrdeer.diskstation.eu/
 
-- [x] 京东车
+- [x] 京东车（家宽）
 
-https://mrdeer.draydns.de/（家宽）
+https://mrdeer.draydns.de/
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangbo777&theme=high-contrast)
