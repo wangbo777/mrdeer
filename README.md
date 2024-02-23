@@ -25,14 +25,17 @@ ql repo https://github.com/wangbo777/mrdeer.git
 脚本报错 no module named '***' 就是缺少青龙依赖  去青龙面板依赖管理里面右上角新建依赖 添加对应的缺少的依赖就好了
 ```
 
-- [x] 签到框架
+- [x] 签到框架（云服务器）
 
 https://mrdeer.dd-dns.de/
+
+- [x] 签到框架（家宽）
+      
 https://mrdeer.diskstation.eu/
 
 - [x] 京东车
 
-https://mrdeer.draydns.de/
+https://mrdeer.draydns.de/（家宽）
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangbo777&theme=high-contrast)
