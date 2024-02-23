@@ -28,6 +28,7 @@ ql repo https://github.com/wangbo777/mrdeer.git
 - [x] 签到框架
 
 https://mrdeer.dd-dns.de/
+https://mrdeer.diskstation.eu/
 
 - [x] 京东车
 
