@@ -31,7 +31,7 @@ https://mrdeer.dd-dns.de/
 
 - [x] 京东车
 
-http://mrdeer.top:5702/
+https://mrdeer.draydns.de/
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangbo777&theme=high-contrast)
