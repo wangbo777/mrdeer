@@ -35,4 +35,6 @@ https://mrdeer.top/
 
 ![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
 
+![tip](https://badgen.net/badge/java/8.1/orange?icon=java)
+
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
