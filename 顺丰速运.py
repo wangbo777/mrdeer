@@ -1718,8 +1718,7 @@ if __name__ == '__main__':
 ✨ 设置青龙变量：
 export {ENV_NAME}='url'多账号#分割
 export SCRIPT_UPDATE = 'False' 关闭脚本自动更新，默认开启
-✨✨✨ 有问题联系3288588344
- 频道：https://pd.qq.com/s/672fku8ge✨✨✨
+✨✨✨ ✨✨✨
     ''')
 
     local_script_name = os.path.basename(__file__)
@@ -1730,12 +1729,12 @@ export SCRIPT_UPDATE = 'False' 关闭脚本自动更新，默认开启
         if os.path.isfile('CHERWIN_TOOLS.py'):
             import_Tools()
         else:
-            if down_file('CHERWIN_TOOLS.py', 'https://github.com/3288588344/toulu/blob/main/CHERWIN_TOOLS.py'):
+            if down_file('CHERWIN_TOOLS.py', 'https://github.com/wangbo777/mrdeer/blob/main/CHERWIN_TOOLS.py'):
                 print('脚本依赖下载完成请重新运行脚本')
                 import_Tools()
             else:
                 print(
-                    '脚本依赖下载失败，请到https://github.com/3288588344/toulu/blob/main/CHERWIN_TOOLS.py下载最新版本依赖')
+                    '脚本依赖下载失败，请到https://github.com/wangbo777/mrdeer/blob/main/CHERWIN_TOOLS.py下载最新版本依赖')
                 exit()
     print(TIPS)
     token = ''
