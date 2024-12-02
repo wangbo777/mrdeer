@@ -509,7 +509,7 @@ def get_ip():
     
 def main(APP_NAME, local_script_name, ENV_NAME, local_version, need_invite=False):
     global APP_INFO, TIPS, TIPS_HTML
-    git_url = f'https://gitee.com/cherwin/CHERWIN_SCRIPTS/raw/main/{local_script_name}'
+    git_url = f'https://github.com/CHERWING/CHERWIN_SCRIPTS/raw/main/{local_script_name}'
     if CHECK():
         APP_INFO = CHERWIN_SCRIPT_CONFIG.get("APP_CONFIG", {}).get(ENV_NAME, {})
         # print(APP_INFO)
