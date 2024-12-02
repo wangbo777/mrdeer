@@ -11,7 +11,7 @@ import requests
 from http import HTTPStatus
 from datetime import datetime
 
-NOW_TOOLS_VERSION = '2024.05.27'
+NOW_TOOLS_VERSION = '2024.07.24'
 if os.path.isfile('DEV_ENV.py'):
     import DEV_ENV
 
@@ -142,9 +142,6 @@ def CHECK_UPDATE_NEW(local_version, server_version, server_script_url, script_fi
             return False
     except requests.exceptions.RequestException as e:
         print(f'发生网络错误：{e}')
-        server_base_url = f"https://py.cherwin.cn/{APP_NAME}/"
-        server_script_url = f"{server_base_url}{script_filename}"
-        CHECK_UPDATE_NEW(local_version, server_version, server_script_url, script_filename, APP_NAME=APP_NAME)
     except Exception as e:
         print(f'发生未知错误：{e}')
     return False  # 返回 False 表示没有进行更新操作
@@ -339,27 +336,39 @@ def RESTART_SCRIPT(RESTART_SCRIPT_NAME):
 def CHECK():
     global CHERWIN_SCRIPT_CONFIG
     print('>>>>>>>开始获取版本信息...')
-    baseurl = 'https://py.cherwin.cn/'
+    baseurl = 'https://github.com/CHERWING/CHERWIN_SCRIPTS/raw/main/'
     TOOLS_NAME = 'CHERWIN_TOOLS.py'
     server_script_url = f'https://github.com/CHERWING/CHERWIN_SCRIPTS/raw/main/{TOOLS_NAME}'
+    
     try:
         response = requests.get(f'{baseurl}CHERWIN_SCRIPT_CONFIG.json', verify=False)
         response.encoding = 'utf-8'
-        # 读取内容
         CHERWIN_SCRIPT_CONFIG = response.json()
-        if 'code' in CHERWIN_SCRIPT_CONFIG:
-            CHERWIN_SCRIPT_CONFIG = None
-        TOOLS_VERSION = CHERWIN_SCRIPT_CONFIG.get('TOOLS_VERSION', NOW_TOOLS_VERSION)
+        
+        # 保存到本地文件
+        with open('CHERWIN_SCRIPT_CONFIG.json', 'w', encoding='utf-8') as f:
+            json.dump(CHERWIN_SCRIPT_CONFIG, f, ensure_ascii=False, indent=4)
+        print('成功从云端获取并保存到本地')
 
-        if CHECK_UPDATE_NEW(NOW_TOOLS_VERSION, TOOLS_VERSION, server_script_url, TOOLS_NAME):
-            print('更新脚本完成')
-            # print(f'重新检测[{TOOLS_NAME}]版本')
+    except Exception as e:
+        print('获取CHERWIN_SCRIPT_CONFIG.json失败，尝试使用本地文件', e)
+        try:
+            with open('CHERWIN_SCRIPT_CONFIG.json', 'r', encoding='utf-8') as f:
+                CHERWIN_SCRIPT_CONFIG = json.load(f)
+        except Exception as e:
+            print('获取本地CHERWIN_SCRIPT_CONFIG.json失败', e)
             return False
-        else:
-            return True
-    except:
-        print('获取CHERWIN_SCRIPT_CONFIG.json失败')
+
+    if 'code' in CHERWIN_SCRIPT_CONFIG:
+        CHERWIN_SCRIPT_CONFIG = None
+
+    TOOLS_VERSION = CHERWIN_SCRIPT_CONFIG.get('TOOLS_VERSION', NOW_TOOLS_VERSION)
+
+    if CHECK_UPDATE_NEW(NOW_TOOLS_VERSION, TOOLS_VERSION, server_script_url, TOOLS_NAME):
+        print('更新脚本完成')
         return False
+    else:
+        return True
 
 
 def GJJJ_SIGN():
@@ -500,7 +509,7 @@ def get_ip():
     
 def main(APP_NAME, local_script_name, ENV_NAME, local_version, need_invite=False):
     global APP_INFO, TIPS, TIPS_HTML
-    git_url = f'https://github.com/CHERWING/CHERWIN_SCRIPTS/raw/main/{local_script_name}'
+    git_url = f'https://gitee.com/cherwin/CHERWIN_SCRIPTS/raw/main/{local_script_name}'
     if CHECK():
         APP_INFO = CHERWIN_SCRIPT_CONFIG.get("APP_CONFIG", {}).get(ENV_NAME, {})
         # print(APP_INFO)
