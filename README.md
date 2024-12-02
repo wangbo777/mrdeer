@@ -1,12 +1,12 @@
 <div align="center">   
 <h1 align="center">个人仓库 点个⭐吧</h1>
 
-<a href="https://github.com/wangbo777/mrdeer/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wangbo777/mrdeer?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
-<a href="https://github.com/wangbo777/mrdeer/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/wangbo777/mrdeer?color=orange&style=flat-square"></a>
-<a href="https://github.com/wangbo777/mrdeer/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/wangbo777/mrdeer?color=red&style=flat-square"></a>
+<a href="https://github.com/deerwan/mrdeer/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/deerwan/mrdeer?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
+<a href="https://github.com/deerwan/mrdeer/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/deerwan/mrdeer?color=orange&style=flat-square"></a>
+<a href="https://github.com/deerwan/mrdeer/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/deerwan/mrdeer?color=red&style=flat-square"></a>
 </div>
                                            
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/wangbo777/count.svg)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/deerwan/count.svg)
 <div align="center">
 
 
@@ -17,7 +17,7 @@
 - [x] 青龙拉库
 
 ```
-ql repo https://github.com/wangbo777/mrdeer.git
+ql repo https://github.com/deerwan/mrdeer.git
 ```
 
 - [x] 脚本排错
@@ -30,7 +30,7 @@ ql repo https://github.com/wangbo777/mrdeer.git
 https://mrdeer.top/
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangbo777&theme=high-contrast)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deerwan&theme=high-contrast)
 
 
 ![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
