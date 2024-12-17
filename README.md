@@ -1,5 +1,5 @@
 <div align="center">   
-<h1 align="center">个人仓库 点个⭐吧</h1>
+<h1 align="center">个人仓库 仅供学习 点个⭐吧</h1>
 
 <a href="https://github.com/deerwan/mrdeer/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/deerwan/mrdeer?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
 <a href="https://github.com/deerwan/mrdeer/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/deerwan/mrdeer?color=orange&style=flat-square"></a>
