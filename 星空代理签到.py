@@ -7,6 +7,9 @@
 # cron "30 7 * * *" script-path=xxx.py,tag=匹配cron用
 # const $ = new Env('星空代理签到')
 
+# 注册地址
+# https://www.xkdaili.com/?ic=aw0d2s5s
+
 import requests, json 
 import os
 import logging
