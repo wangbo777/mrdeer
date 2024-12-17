@@ -23,10 +23,6 @@ ql repo https://github.com/deerwan/mrdeer.git
 ```
 
 
-### 导航页
-
-地址：https://mrdeer.top/
-
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deerwan&theme=high-contrast)
 
